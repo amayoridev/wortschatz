@@ -1,0 +1,6 @@
+{
+  "name": "German Vocabulary Tracker",
+  "description": "Ứng dụng ghi nhớ và học từ vựng tiếng Đức phân loại theo chủ đề, tự động phân tích giống ngữ pháp (der/die/das), dạng số nhiều và tạo câu ví dụ song ngữ Đức-Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
